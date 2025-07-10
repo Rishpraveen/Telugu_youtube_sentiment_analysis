@@ -284,6 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Email**: [My Email](rishpraveen001@gmail.com)
-- **LinkedIn**: [Rishpraveen](https://www.linkedin.com/in/rishpraveen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [Shengalreddy Sireesha](https://www.linkedin.com/in/chengalreddy-sireesha-a61143310/)
+- **LinkedIn**: [Rishpraveen](https://www.linkedin.com/in/rishpraveen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [Chengalreddy Sireesha](https://www.linkedin.com/in/chengalreddy-sireesha-a61143310/)
 
 If this project helps you, please consider giving it a ⭐ star on GitHub!
