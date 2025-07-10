@@ -253,14 +253,6 @@ black src/
 flake8 src/
 ```
 
-## 📚 Documentation
-
-- [API Reference](docs/api.md)
-- [Model Details](docs/model.md)
-- [Telugu Language Support](docs/telugu-support.md)
-- [Performance Benchmarks](docs/benchmarks.md)
-- [Troubleshooting Guide](docs/troubleshooting.md)
-
 ## 🐛 Known Issues
 
 - **Flash Attention**: May not be available on all GPU architectures
