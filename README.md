@@ -292,6 +292,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Email**: [My Email](rishpraveen001@gmail.com)
-- **LinkedIn**: [Rishpraveen]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishpraveen/))
+- **LinkedIn**: [Rishpraveen]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishpraveen/)) and [Shengalreddy Sireesha](https://www.linkedin.com/in/chengalreddy-sireesha-a61143310/)
 
 If this project helps you, please consider giving it a ⭐ star on GitHub!
